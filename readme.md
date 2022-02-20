@@ -3,7 +3,7 @@ BDIX IPTV হবে সম্পূর্ণ অলাভজনক একটি 
 আইপিটিভি প্লেয়ারের লিংকঃ https://cutt.ly/uPEceTs
 অথবা https://raw.githubusercontent.com/cuetbd/bdixiptv/main/bdixiptv.m3u লিংক ব্যবহার করতে পারবেন।
 
-ওয়েবসাইটে সকল আপডেট পেয়ে যাবেনঃ https://techpriyo.com/bdixiptv
+ওয়েবসাইটে সকল আপডেট পেয়ে যাবেনঃ https://techpriyo.com//2022/02/bdix.html
 
 আপইনারা আমাদের টেলিগ্রাম চ্যানেলে যুক্ত থাকলে সকল ধরনের আপডেট পেয়ে যাবেন।
 আমাদের টেলিগ্রাম চ্যানেলে লিংক ঃ https://t.me/bdixtv24
